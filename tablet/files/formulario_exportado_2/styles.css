@@ -1,0 +1,280 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:760px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:230px;
+  top:50px;
+  width:530px;
+  height:480px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:530px;
+  height:480px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:232px;
+  width:526px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:258px;
+  top:70px;
+  width:474px;
+  height:421px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:421px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:202px;
+  width:470px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:260px;
+  top:97px;
+  width:70px;
+  height:25px;
+}
+#u4_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u5 {
+  position:absolute;
+  left:258px;
+  top:70px;
+  width:474px;
+  height:25px;
+  color:#1E1E1E;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:25px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:470px;
+  word-wrap:break-word;
+}
+#u7 {
+  position:absolute;
+  left:334px;
+  top:96px;
+  width:80px;
+  height:25px;
+}
+#u7_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u8 {
+  position:absolute;
+  left:668px;
+  top:501px;
+  width:64px;
+  height:19px;
+}
+#u8_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  height:19px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u9 {
+  position:absolute;
+  left:258px;
+  top:122px;
+  width:479px;
+  height:374px;
+}
+#u10 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:30px;
+  color:#1E1E1E;
+}
+#u10_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:30px;
+}
+#u11 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:470px;
+  word-wrap:break-word;
+}
+#u12 {
+  position:absolute;
+  left:0px;
+  top:30px;
+  width:474px;
+  height:30px;
+  color:#1E1E1E;
+}
+#u12_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:30px;
+}
+#u13 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:470px;
+  word-wrap:break-word;
+}
+#u14 {
+  position:absolute;
+  left:0px;
+  top:60px;
+  width:474px;
+  height:309px;
+  text-align:center;
+}
+#u14_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:309px;
+}
+#u15 {
+  position:absolute;
+  left:2px;
+  top:146px;
+  width:470px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u16 {
+  position:absolute;
+  left:320px;
+  top:220px;
+  width:360px;
+  height:100px;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:100px;
+}
+#u17 {
+  position:absolute;
+  left:2px;
+  top:42px;
+  width:356px;
+  word-wrap:break-word;
+}
+#u18 {
+  position:absolute;
+  left:530px;
+  top:295px;
+  width:70px;
+  height:25px;
+}
+#u18_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u19 {
+  position:absolute;
+  left:604px;
+  top:295px;
+  width:70px;
+  height:25px;
+}
+#u19_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
